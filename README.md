@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Python-orange?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyTorch-red?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tensorflow-orange?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Keras-#D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+
 
 
 
