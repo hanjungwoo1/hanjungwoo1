@@ -45,7 +45,11 @@
 - 기술 스택 : 
 <img src="https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/API-3776AB?style=flat-square&logo=API&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>
+
+
 - 업무 기간 : 2019.04 ~ 2019.11 (약 7개월 소요)
 - 인원 : 5
 - 상세 내용 : 
@@ -77,8 +81,8 @@
 - 상세 내용 : 
 - 시연 연상 : https://youtu.be/GUlju_2Bbm0
 - 업무 성과 : 
-2018 한이음 공모전 입선
-2018 삼육대학교 아이디어 경진대회 우수
+    - 2018 한이음 공모전 입선
+    - 2018 삼육대학교 아이디어 경진대회 우수
 
 ## Skills
 MLops 
