@@ -12,6 +12,67 @@
 <img src="https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 
+## Projects
+### Feature Based Sampling: A Fast and Robust Sampling Method for Tasks Using 3D Point Cloud
+- 주요 업무 : Project Lead
+- 담당 역할 : Project Lead
+- 기술 스택 : 
+- 업무 기간 : 
+- 인원 : 
+- 상세 내용
+- 업무 성과 :
+
+###
+###
+###
+
+### 
+- 주요 업무 : 모델링 및 실험
+- 담당 역할 : 
+- 기술 스택 : 
+- 업무 기간 : 
+- 인원 : 
+- 상세 내용
+- 업무 성과 :
+
+### Smart Container
+- 주요 업무 : 팀 리드, 설계 및 백엔드 전담
+- 담당 역할 : 팀장
+- 기술 스택 : 
+- 업무 기간 : 2019.04 ~ 2019.11 (약 7개월 소요)
+- 인원 : 5
+- 상세 내용 : 
+- 시연 연상 : https://youtu.be/9Vx05kWheak
+- 업무 성과 :
+2019 스마트 항만물류 창업지원 선정(22,000,000(원))
+2019 삼육대학교 프로젝트 경진대회 대상
+2019 노원그린캠퍼스사업단 사업단장상
+
+### Smart AGV
+- 주요 업무 : 팀 리드, 설계 및 백엔드 전담
+- 담당 역할 : 팀장
+- 기술 스택 : 
+- 업무 기간 : 2019.04 ~ 2019.11 (약 7개월 소요)
+- 인원 : 5
+- 상세 내용 : 
+- 시연 연상 : https://youtu.be/56Nr-upcPYU
+- 업무 성과 :
+2019 스마트해상물류 프로젝트 경진대회 동상
+2019 삼육대학교 프로젝트 경진대회 최우수상
+2019 노원그린캠퍼스사업단 사업단장상
+
+### 나만의 뉴스 - My news
+- 주요 업무 : 팀 리드, 설계 및 백엔드 전담
+- 담당 역할 : 팀장
+- 기술 스택 : 
+- 업무 기간 : 2018.04 ~ 2018.11 (약 7개월 소요)
+- 인원 : 5
+- 상세 내용 : 
+- 시연 연상 : https://youtu.be/GUlju_2Bbm0
+- 업무 성과 : 
+2018 한이음 공모전 입선
+2018 삼육대학교 아이디어 경진대회 우수
+
 ## Skills
 MLops 
 - d
