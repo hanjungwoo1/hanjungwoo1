@@ -15,8 +15,13 @@
 ## Projects
 ### Feature Based Sampling: A Fast and Robust Sampling Method for Tasks Using 3D Point Cloud
 - 주요 업무 : Project Lead
-- 담당 역할 : Project Lead
+- 담당 역할 : 팀장
 - 기술 스택 : 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-#FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 - 업무 기간 : 
 - 인원 : 
 - 상세 내용
