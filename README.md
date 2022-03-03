@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 
 ## Projects
 ### Feature Based Sampling: A Fast and Robust Sampling Method for Tasks Using 3D Point Cloud
@@ -21,7 +20,7 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Linux-#FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
 - 업무 기간 : 
 - 인원 : 
 - 상세 내용
@@ -44,6 +43,9 @@
 - 주요 업무 : 팀 리드, 설계 및 백엔드 전담
 - 담당 역할 : 팀장
 - 기술 스택 : 
+<img src="https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 - 업무 기간 : 2019.04 ~ 2019.11 (약 7개월 소요)
 - 인원 : 5
 - 상세 내용 : 
