@@ -113,7 +113,17 @@ MLops
 
 Backend
 - python
-- 
+
+## Experience
+### 교내 전산원
+
+### YAHAIT 동아리 운영
+
+### SmartContainer / SmartAGV 울산항만 창업
+
+### 
+
+
 ## Education
 2020.03 ~ 2022.02 고려대학교(안암) 대학원 석사 (서울) / 컴퓨터 공학 / 4.31(4.5) / 졸업
 
