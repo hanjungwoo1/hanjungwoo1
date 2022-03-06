@@ -24,9 +24,9 @@
 |구분|Skill|
 |-----|----|
 |Programing Languages|Python, Java, C, Javascript, HTML5, CSS3, C#|
-|Framework/ Library|Pytorch, Tensorflow, Keras, jQeury|
+|Framework/Library|Pytorch, Tensorflow, Keras, jQeury|
 |Server|MySQL, MongoDB, Docker Registry|
-|Tooling/ Devops|Docker, Github, Kubernetes, Kubeflow, Unity|
+|Tooling/Devops|Docker, Github, Kubernetes, Kubeflow, Unity|
 |Environment|GCP, Linux, Window|
 
 ## Projects
