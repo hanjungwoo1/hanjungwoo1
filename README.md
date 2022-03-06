@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
@@ -9,7 +9,25 @@
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=Django&logoColor=white"/></a> -->
+
+
+# 한정우 / Jungwoo Han
+### MLops / Vision / 3D Vision / Multi-Modal
+
+## About Me
+ - MLops
+ - 24시간 코딩하는 개발자
+ - 
+
+## Skill Set
+|구분|Skill|
+|-----|----|
+|Programing Languages|Python, Java, C, Javascript, HTML5, CSS3, C#|
+|Framework/ Library|Pytorch, Tensorflow, Keras, jQeury|
+|Server|MySQL, MongoDB, Docker Registry|
+|Tooling/ Devops|Docker, Github, Kubernetes, Kubeflow, Unity|
+|Environment|GCP, Linux, Window|
 
 ## Projects
 ### Feature Based Sampling: A Fast and Robust Sampling Method for Tasks Using 3D Point Cloud
@@ -104,26 +122,6 @@
     - 2018 한이음 공모전 입선
     - 2018 삼육대학교 아이디어 경진대회 우수
 
-## Skills
-MLops 
-- d
-- dd
-- d
-- d
-
-Backend
-- python
-
-## Experience
-### 교내 전산원
-
-### YAHAIT 동아리 운영
-
-### SmartContainer / SmartAGV 울산항만 창업
-
-### 
-
-
 ## Education
 2020.03 ~ 2022.02 고려대학교(안암) 대학원 석사 (서울) / 컴퓨터 공학 / 4.31(4.5) / 졸업
 
@@ -132,6 +130,33 @@ Backend
 2009.03 ~ 2012.02 대신고등학교 / 졸업
 
 
+## Experience
+### 교내 전산원
+ - 교내활동 / 정보전산원 / 교내 PC, 강의실 점검 및 관리 / 2018.03 ~ 2019.08
+ - 교내활동 / 투비씨앤씨 / 교내 PC, 강의실 점검 및 관리 / 2019.10 ~ 2020.04
+### YAHAIT 동아리 운영
+ - 교내활동 / YAHAIT / YAHAIT 코딩 동아리 개설 및 운영(회장) / 2018.03 ~ 2020.02
+     - 각 언어별 Study 운영
+     - Toy Project 진행
+     - Project 팀업
+### SmartContainer / SmartAGV 울산항만 창업
+ - 수행과제 / 울산과학기술원 / 창업지원 선정(22,000,000원) / 2019.10 ~ 2020.04
+
+
+
+## 수상 내역
+ - 2019 스마트 해상 물류 프로젝트 경진 대회 / 한국정보산업연합회 회장 / 동상 (2019/12/14)
+ - 프로젝트 경진대회 / 삼육대학교 미래융합대학장 / 대상 (2019/11/28)
+ - 프로젝트 경진대회 / 삼육대학교 미래융합대학장 / 최우수상 (2019/11/28)
+ - 2019 한이음 공모전 / 한국정보산업연합회 회장 / 입선 (2018/11/30)
+ - 아이디어 경진대회 / 삼육대학교 컴퓨터학부장 / 우수상 (2018/11/21)
+ - 2019 노원 캠퍼스타운 창업아이디어 경진대회 / 노원그린캠퍼스타운사업단장 / 사업단장상 (2019/11/19)
+
+
+## License
+- 토익 805 (21.08.22/29)
+- 정보처리기사 (19.08.16)
+- Mos Master (19.11.25)
 
 
 
