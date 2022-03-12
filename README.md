@@ -113,6 +113,7 @@
 - 담당 역할 : 팀장
 - 기술 스택 : 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=JSP&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 - 업무 기간 : 2018.04 ~ 2018.11 (약 7개월 소요)
 - 인원 : 5
