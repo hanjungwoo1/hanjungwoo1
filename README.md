@@ -18,7 +18,19 @@
 ## About Me
  - MLops
  - 24시간 코딩하는 개발자
- - 
+
+
+### Now
+ MLops
+ - by Kubeflow
+ - 핵심만 콕 쿠버네티스
+ - Idea : CI/CD, Data Pipeline, (Model: ??)
+ - for Pipeline : 지속학습 가능한 데이터(ex) [by crawling], 금융데이터)
+ 
+ Coding Test
+ - backjoon
+ - Programmers
+ - 이것이 코딩테스트다
 
 ## Skill Set
 |구분|Skill|
@@ -113,7 +125,7 @@
 - 담당 역할 : 팀장
 - 기술 스택 : 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=JSP&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JSP-FF6F00?style=flat-square&logo=JSP&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 - 업무 기간 : 2018.04 ~ 2018.11 (약 7개월 소요)
 - 인원 : 5
