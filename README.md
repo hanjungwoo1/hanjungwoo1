@@ -55,9 +55,10 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 - 업무 기간 : 2021.02 ~ 
 - 인원 : 4
-- 상세 내용 : 
+- 상세 내용 : 3D vision task인 Point Cloud 데이터를 다뤄내는 Model에서 병목현상이 발생하는 Sampling의 문제점을 제기하고, 문제를 해결할 수 있는 새로운 Feature-based Sampling을 제안하였습니다. Outlier를 제거하며, 3배이상의 속도 향상을 가져오게 되고 약간의 정확도 상승의 결과를 나타내었습니다. 새로운 Sampling 방식을 제안하며 Bias를 최대한 줄이고 설명 가능한 형태의 Feature-based Sampling을 제시하였습니다. 결과를 증명하기 위해 Outlier Removal, Sampling Ratio 등 새로운 실험을 제안하였습니다. 또한 기존의 Sota 논문들과 비교하기 위해 여러개의 Tensorflow로 된 모델을 Pytorch로 포팅하여 구현하여 진행하였습니다.
 - 업무 성과 : 
     - IEEE Access (in review) - Feature Based Sampling: A Fast and Robust Sampling Method for tasks using 3D point cloud
+
 
 ### 
 ###
@@ -92,7 +93,7 @@
 
 - 업무 기간 : 2019.04 ~ 2019.11 (약 7개월 소요)
 - 인원 : 5
-- 상세 내용 : 
+- 상세 내용 : 팀 리딩, 백 엔드 설계 및 개발. Django를 통해 백엔드를 개발하고 다양한 Edge Device와 통신하여 기존의 컨테이너를 스마트화 시켜 항만에서 관리하고 사용할 수 있는 플랫폼을 개발하였습니다. Socket통신을 활용하여 각 서버간 통신을 상시 연결하고 이를 통해 라즈베리 파이를 제어하였습니다. 파이에 NodeMCU로 연결 되어있는 장치들은 온습도 조절장치, 문개폐 등이 있습니다. 문 개폐는 YoloV2를 사용하여 얼굴인식을 적용하였고 또한 항만에서 얻어지는 데이터를 LSTM 모델에 적용하여 컨테이너들의 물동량을 예측하는 기능을 구현하였습니다. 이를 통해 서버 구축에 전반적인 이해도를 가지고 있으며, 모델(딥러닝)의 기능을 포함한 서버를 개발한 경험이 있습니다.
 - 시연 연상 : https://youtu.be/9Vx05kWheak
 - 업무 성과 :
     - 2019 스마트 항만물류 창업지원 선정(22,000,000(원))
@@ -114,7 +115,7 @@
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>
 - 업무 기간 : 2019.04 ~ 2019.11 (약 7개월 소요)
 - 인원 : 5
-- 상세 내용 : 
+- 상세 내용 : 팀 리딩, 백엔드 설계 개발. 라즈베리 파이를 통해 반자율주행 차량을 개발하였습니다. Pi Car를 제작하여 각각의 모터를 제어하여 차량을 제어할 수 있게 만들고, Django 백엔드 서버를 통하여 여러개의 차량을 제어하는 플랫폼을 개발하였습니다. 이 차량은 항만에서 컨테이너를 운반하는 AGV를 예시로 제작하였고, 차량 위에 RFID칩을 포함한 Smart Container가 적재되면 필요한 위치로 반자율주행하게 됩니다. 주행 중에 Camera에 Yolo를 적용하고 초음파 탐지를 통해 장애물을 식별하며 Line Tracking 기술을 사용하여 차선이탈 방지를 구현하였습니다. 또한 다익스트라 알고리즘을 통해 차량들이 서로 방해받지 않는 경로를 찾아 진행합니다. 서버 개발을 통해 플랫폼을 구축하여 차량을 제어를 해보니 신뢰성 높은 시스템 구축의 중요성을 알게 되었습니다. 
 - 시연 연상 : https://youtu.be/56Nr-upcPYU
 - 업무 성과 :
     - 2019 스마트해상물류 프로젝트 경진대회 동상
