@@ -74,7 +74,7 @@
 - 인원 : 1
 - 상세 내용 : 3D OCT images Segmentation, Tissue-Segmentation map classfication. make auxiliary data by Triple GAN to solve Data imbalance.
 - 업무 성과 : 
-    - 
+    - 0
 
 
 ### Survival Analysis(AI healthCare project 2)
@@ -92,7 +92,7 @@
 - 인원 : 1
 - 상세 내용 : 1. ADNI 데이터 사용, 2. Missing data imputation by GAIN[Missing Data Imputation using Generative Adversarial Nets.ICML] 3. Kaplan-Meier Estimator
 - 업무 성과 : 
-    - 
+    - 0
 
 ### Lateral Venticle(AI Healthcare Project 1)
 - 주요 업무 : 데이터 분석, 모델 설계, 실험 및 검증
@@ -109,7 +109,7 @@
 - 인원 : 1
 - 상세 내용 : Brain CT Data, Goal : Lateral Ventricle 뇌구조 파악하기, U-Net, cross validation - 6-fold validation. 
 - 업무 성과 : 
-    - 
+    - 0
 
 
 ### Multi-modal Fault Detection
