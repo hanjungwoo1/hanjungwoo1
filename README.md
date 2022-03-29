@@ -203,12 +203,12 @@
  - 교내활동 / 투비씨앤씨 / 교내 PC, 강의실 점검 및 관리 / 2019.10 ~ 2020.04
 ### YAHAIT 동아리 운영
  - 교내활동 / YAHAIT / YAHAIT 코딩 동아리 개설 및 운영(회장) / 2018.03 ~ 2020.02
-     - 각 언어별 Study 운영
-     - Toy Project 진행
-     - Project 팀업
+     - 각 언어별 Study 운영(약 100명)
+     - Toy Project 진행(약 40명)
+     - Project 팀업(9명)
 ### SmartContainer / SmartAGV 울산항만 창업
  - 수행과제 / 울산과학기술원 / 창업지원 선정(22,000,000원) / 2019.10 ~ 2020.04
- - 
+ 
 [뉴스기사](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=YAHAIT)
 
 
