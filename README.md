@@ -208,7 +208,7 @@
      - Project 팀업
 ### SmartContainer / SmartAGV 울산항만 창업
  - 수행과제 / 울산과학기술원 / 창업지원 선정(22,000,000원) / 2019.10 ~ 2020.04
-
+![뉴스기사](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=YAHAIT)
 
 
 ## 수상 내역
