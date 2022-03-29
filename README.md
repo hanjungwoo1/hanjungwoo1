@@ -74,10 +74,27 @@
 - 인원 : 1
 - 상세 내용 : 3D OCT images Segmentation, Tissue-Segmentation map classfication. make auxiliary data by Triple GAN to solve Data imbalance.
 - 업무 성과 : 
-    - 0
+- [프로젝트 내용](https://github.com/hanjungwoo1/Projects/tree/master/Projects/Retinal%20Disease%20Prediction)
 
 
-### Survival Analysis(AI healthCare project 2)
+### Lateral Venticle(AI Healthcare Project 2)
+- 주요 업무 : 데이터 분석, 모델 설계, 실험 및 검증
+- 담당 역할 : 개인
+- 기술 스택 : 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+- 업무 기간 : 2020.10 ~ 2020.11
+- 인원 : 1
+- 상세 내용 : Brain CT Data, Goal : Lateral Ventricle 뇌구조 파악하기, U-Net, cross validation - 6-fold validation. 
+- [프로젝트 내용](https://github.com/hanjungwoo1/Projects/tree/master/Projects/Lateral%20Ventricle)
+
+
+### Survival Analysis(AI healthCare project 1)
 - 주요 업무 : 데이터 분석, 모델 설계, 실험 및 검증
 - 담당 역할 : 개인
 - 기술 스택 : 
@@ -91,24 +108,7 @@
 - 업무 기간 : 2020.09 ~ 2020.10 
 - 인원 : 1
 - 상세 내용 : 1. ADNI 데이터 사용, 2. Missing data imputation by GAIN[Missing Data Imputation using Generative Adversarial Nets.ICML] 3. Kaplan-Meier Estimator
-- 업무 성과 : 
-    - 0
-
-### Lateral Venticle(AI Healthcare Project 1)
-- 주요 업무 : 데이터 분석, 모델 설계, 실험 및 검증
-- 담당 역할 : 개인
-- 기술 스택 : 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-- 업무 기간 : 2020.09 ~ 2020.10
-- 인원 : 1
-- 상세 내용 : Brain CT Data, Goal : Lateral Ventricle 뇌구조 파악하기, U-Net, cross validation - 6-fold validation. 
-- [프로젝트 내용](https://github.com/hanjungwoo1/Projects/tree/master/Projects/Lateral%20Ventricle)
+- [프로젝트 내용](https://github.com/hanjungwoo1/Projects/tree/master/Projects/Survival%20Analysis)
 
 
 ### Multi-modal Fault Detection
