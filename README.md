@@ -108,8 +108,7 @@
 - 업무 기간 : 2020.09 ~ 2020.10
 - 인원 : 1
 - 상세 내용 : Brain CT Data, Goal : Lateral Ventricle 뇌구조 파악하기, U-Net, cross validation - 6-fold validation. 
-- 업무 성과 : 
-    - 0
+- [프로젝트 내용](https://github.com/hanjungwoo1/Projects/tree/master/Projects/Lateral%20Ventricle)
 
 
 ### Multi-modal Fault Detection
