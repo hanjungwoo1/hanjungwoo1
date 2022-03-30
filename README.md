@@ -73,7 +73,6 @@
 - 업무 기간 : 2020.11 ~ 2020.12 
 - 인원 : 1
 - 상세 내용 : 3D OCT images Segmentation, Tissue-Segmentation map classfication. make auxiliary data by Triple GAN to solve Data imbalance.
-- 업무 성과 : 
 - [프로젝트 내용](https://github.com/hanjungwoo1/Projects/tree/master/Projects/Retinal%20Disease%20Prediction)
 
 
