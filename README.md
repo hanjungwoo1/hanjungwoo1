@@ -136,7 +136,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/RestAPI-006600?style=flat-square&logo=RestAPI&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white"/></a>
-
 - 업무 기간 : 2019.04 ~ 2019.11 (약 7개월 소요)
 - 인원 : 5
 - 상세 내용 : 팀 리딩, 백 엔드 설계 및 개발. Django를 통해 백엔드를 개발하고 다양한 Edge Device와 통신하여 기존의 컨테이너를 스마트화 시켜 항만에서 관리하고 사용할 수 있는 플랫폼을 개발하였습니다. Socket통신을 활용하여 각 서버간 통신을 상시 연결하고 이를 통해 라즈베리 파이를 제어하였습니다. 파이에 NodeMCU로 연결 되어있는 장치들은 온습도 조절장치, 문개폐 등이 있습니다. 문 개폐는 YoloV2를 사용하여 얼굴인식을 적용하였고 또한 항만에서 얻어지는 데이터를 LSTM 모델에 적용하여 컨테이너들의 물동량을 예측하는 기능을 구현하였습니다. 이를 통해 서버 구축에 전반적인 이해도를 가지고 있으며, 모델(딥러닝)의 기능을 포함한 서버를 개발한 경험이 있습니다.
@@ -176,12 +175,9 @@
 <img src="https://img.shields.io/badge/JSP-FF6F00?style=flat-square&logo=JSP&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-
-
 - 업무 기간 : 2018.04 ~ 2018.11 (약 7개월 소요)
 - 인원 : 5
 - 상세 내용 : 이 프로젝트의 결과물은 ‘나만의 뉴스’로서 정보가 넘쳐나는 시대에 내가 원하는 정보만 편하게 모아주는 기능을 가진 어플로 모든 사람의 기호에 맞춘 아침에 일어나서, 저녁에 자기 전에, 수시로 찾아보고 필수적인 정보들을 한 화면에 모두 모아주는 Crawling과 API 기반의 솔루션.
-    
     프로젝트를 진행하면서 팀을 리드하고 전반적인 설계 및 개발을 맡아서 진행하였습니다. 메인 서버와 API와 Crawling 기능을 만든 뒤에 Front 부분에서 개개인의 편의성을 위한 Grid 방식의 UI를 채택하여 설계를 하였고 이러한 과정에서 메인 서버와 API, Crawling 위주의 개발을 맡았습니다.  프로젝트를 진행하는 중에 일정관리의 중요성을 많이 배웠고, 여러번 검토 후에 정확한 설계가 성공적인 프로젝트를 만든다는 것을 배웠습니다. 또한 진행 중에 변수가 발생할 것을 생각하여 Buffer 시간을 채용하는 것의 중요성도 깨달았습니다. 
 - 시연 연상 : https://youtu.be/GUlju_2Bbm0
 - 업무 성과 : 
@@ -207,8 +203,8 @@
      - Project 팀업(9명)
 ### SmartContainer / SmartAGV 울산항만 창업
  - 수행과제 / 울산과학기술원 / 창업지원 선정(22,000,000원) / 2019.10 ~ 2020.04
- 
-[뉴스기사](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=YAHAIT)
+
+ - [뉴스기사](https://search.naver.com/search.naver?where=news&sm=tab_jum&query=YAHAIT)
 
 
 ## 수상 내역
