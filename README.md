@@ -18,7 +18,8 @@
 ## About Me
  - MLops
  - 24시간 코딩하는 개발자
-
+ - [백준](https://www.acmicpc.net/user/hanjungwoo2)
+ - 
 
 ### Now
  MLops
