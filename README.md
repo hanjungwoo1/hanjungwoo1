@@ -19,14 +19,13 @@
  - MLops
  - 24시간 코딩하는 개발자
  - [백준](https://www.acmicpc.net/user/hanjungwoo2)
- - 
 
 ### Now
  MLops
- - by Kubeflow
+ - Kubeflow
  - 핵심만 콕 쿠버네티스
- - Idea : CI/CD, Data Pipeline, (Model: ??)
- - for Pipeline : 지속학습 가능한 데이터(ex) [by crawling], 금융데이터)
+ - Idea : CI/CD, Data Pipeline : 지속학습 가능한 데이터(ex) [by crawling], 금융데이터)
+ - Kaggle
  
  Coding Test
  - backjoon
