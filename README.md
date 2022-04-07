@@ -222,8 +222,7 @@
 ## License
 - 토익 805 (21.08.22/29) / ETS
 - 정보처리기사 (19.08.16) / 19202020829L / 한국산업인력공단 
-- Mos Master (19.11.25) / Microsoft.
-Commit
+- Mos Master (19.11.25) / uPKz-XLR7 / Microsoft
 
 
 <!--
