@@ -27,6 +27,7 @@
  MLops
  - Kubeflow
  - 핵심만 콕 쿠버네티스
+ - 쉽게 시작하는 캐글 데이터 분석
  - Idea : CI/CD, Data Pipeline : 지속학습 가능한 데이터(ex) [by crawling], 금융데이터)
  - Kaggle
  
