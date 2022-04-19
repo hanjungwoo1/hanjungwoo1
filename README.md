@@ -94,7 +94,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 - 업무 기간 : 2020.10 ~ 2020.11
 - 인원 : 1
-- 상세 내용 : Brain CT Data, Goal : Lateral Ventricle 뇌구조 파악하기, U-Net, cross validation - 6-fold validation. 
+- 상세 내용 : Brain CT Data를 활용하여 Lateral Ventricle 뇌구조 파악하는 Task를 진행하였습니다. 여러 개의 2D이미지가 하나의 뇌를 구성하는 3D데이터 구조를 가지고 있고 BackBone으로 U-Net 사용하며 데이터가 적은 관계로 cross validation - 6-fold validation를 사용하여 검증하였습니다. 후에 Outlier가 Segment 되는 문제를 Post-Processing을 사용하여 처리합니다.
 - [프로젝트 내용](https://github.com/hanjungwoo1/Projects/tree/master/Projects/Lateral%20Ventricle)
 
 
@@ -111,7 +111,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 - 업무 기간 : 2020.09 ~ 2020.10 
 - 인원 : 1
-- 상세 내용 : 1. ADNI 데이터 사용, 2. Missing data imputation by GAIN[Missing Data Imputation using Generative Adversarial Nets.ICML] 3. Kaplan-Meier Estimator
+- 상세 내용 : 사람의 개인적인 ADNI 데이터 사용을 하여 Survival Analysis를 진행하였습니다. 결측치를 찾아 해결하는 방식을 Missing data imputation by GAIN[Missing Data Imputation using Generative Adversarial Nets.ICML]을 적용하여 해결하였고, 이후의 다양한 ML방식을 적용하여 Survival Analysis를 진행하였습니다. Survival Analysis에서 주로 사용하는 Kaplan-Meier Estimator과 결과를 비교합니다.
 - [프로젝트 내용](https://github.com/hanjungwoo1/Projects/tree/master/Projects/Survival%20Analysis)
 
 
