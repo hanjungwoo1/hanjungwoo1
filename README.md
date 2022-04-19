@@ -43,7 +43,7 @@
 ## Skill Set
 |구분|Skill|
 |-----|----|
-|Programing Languages|Python, Java, C, Javascript, HTML5, CSS3, C#|
+|Programming Languages|Python, Java, C, Javascript, HTML5, CSS3, C#|
 |Framework/Library|Pytorch, Tensorflow, Keras, jQeury|
 |Server|MySQL, MongoDB, Docker Registry|
 |Tooling/Devops|Docker, Github, Kubernetes, Kubeflow, Unity|
