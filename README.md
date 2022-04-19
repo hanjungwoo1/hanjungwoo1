@@ -78,7 +78,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 - 업무 기간 : 2020.11 ~ 2020.12 
 - 인원 : 1
-- 상세 내용 : 3D OCT images Segmentation, Tissue-Segmentation map classfication. make auxiliary data by Triple GAN to solve Data imbalance.
+- 상세 내용 : 3D OCT images Segmentation를 활용하여 Tissue-Segmentation map classfication을 진행하였습니다. 데이터의 Imbalance 문제를 해결하기 위해make auxiliary data를Triple GAN 으로 만들어 사용하였습니다. Data Imbalance 문제를 해결하여, 56%의 Accuracy에서 80%까지 Accuracy로 상승시켰습니다.
 - [프로젝트 내용](https://github.com/hanjungwoo1/Projects/tree/master/Projects/Retinal%20Disease%20Prediction)
 
 
