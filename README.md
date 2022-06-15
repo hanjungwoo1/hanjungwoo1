@@ -50,6 +50,15 @@
 |Tooling/Devops|Docker, Github, Kubernetes, Kubeflow, Unity|
 |Environment|GCP, Linux, Window|
 
+<!-- Programming Languages : Python - 중, JAVA - 중, C - 중, C++ - 중, C# - 하, JavaScript - 하, Html5 - 하, Css - 하
+Framework/Library : Pytorch - 중, Tensorflow - 중, Keras - 중, Pandas - 중, Numpy - 중
+Server : MySQL - 하, MongoDB - 하, Docker Registry - 하
+Tooling/Devops : Docker - 중, Github - 중, Kubernetes - 하, Kubeflow - 하, Unity - 하
+Environment : Linux - 중, GCP - 하, Window - 하 -->
+
+
+
+
 ## Projects
 ### Feature Based Sampling: A Fast and Robust Sampling Method for Tasks Using 3D Point Cloud
 - 주요 업무 : Project Lead
