@@ -5,21 +5,9 @@
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
 
-
-
-
-
-
-
-
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/DJango-092E20?style=flat-square&logo=Django&logoColor=white"/></a> -->
-
-
-
-
-
 
 # 한정우 / Jungwoo Han
 ### MLops / Vision / 3D Vision / Multi-Modal
