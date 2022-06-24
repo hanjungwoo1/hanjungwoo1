@@ -17,7 +17,7 @@
  - 24시간 코딩하는 개발자
  - [백준](https://www.acmicpc.net/user/hanjungwoo2)
 
-### Now
+### Study
  MLops
  - Kubeflow
  - 핵심만 콕 쿠버네티스
@@ -46,8 +46,6 @@ Framework/Library : Pytorch - 중, Tensorflow - 중, Keras - 중, Pandas - 중, 
 Server : MySQL - 하, MongoDB - 하, Docker Registry - 하
 Tooling/Devops : Docker - 중, Github - 중, Kubernetes - 하, Kubeflow - 하, Unity - 하
 Environment : Linux - 중, GCP - 하, Window - 하 -->
-
-
 
 
 ## Projects
