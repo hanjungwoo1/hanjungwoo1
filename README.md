@@ -13,6 +13,8 @@
 # 한정우 / Jungwoo Han
 ### MLops / Vision / 3D Vision / Multi-Modal
 
+Line InternShip[~8.26] : Ads ML Engineer
+
 ## About Me
  - MLops
  - 24시간 코딩하는 개발자
