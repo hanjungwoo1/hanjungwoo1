@@ -13,7 +13,7 @@
 # 한정우 / Jungwoo Han
 ### MLops / Vision / 3D Vision / Multi-Modal
 
-Line InternShip[~8.26] : Ads ML Engineer
+Line InternShip[7.04 ~ 8.26] : Ads ML Engineer
 
 ## About Me
  - MLops
