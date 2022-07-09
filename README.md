@@ -34,6 +34,7 @@ Line InternShip[7.04 ~ 8.26] : Ads ML Engineer
  - Programmers
  - 이것이 코딩테스트다
  - 파이썬 알고리즘 인터뷰
+ - Clean Code
 
 ## Skill Set
 |구분|Skill|
