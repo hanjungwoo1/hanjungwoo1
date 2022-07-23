@@ -105,6 +105,7 @@ Environment : Linux - 중, GCP - 하, Window - 하 -->
 - [프로젝트 내용](https://github.com/hanjungwoo1/Projects/tree/master/Projects/Lateral%20Ventricle)
 
 
+
 ### Survival Analysis(AI healthCare project 1)
 - 주요 업무 : 데이터 분석, 모델 설계, 실험 및 검증
 - 담당 역할 : 개인
