@@ -44,7 +44,7 @@ Line InternShip[7.04 ~ 8.26] : Ads ML Engineer
 ## Skill Set
 |구분|Skill|
 |-----|----|
-|Programming Languages|Python, Java, C, Javascript, HTML5, CSS3, C#|
+|Programming Languages|Python, Go, Java, C, Javascript, HTML5, CSS3, C#|
 |Framework/Library|Pytorch, Tensorflow, Keras, jQeury|
 |Server|MySQL, MongoDB, Docker Registry|
 |Tooling/Devops|Docker, Github, Kubernetes, Kubeflow, Unity|
@@ -58,6 +58,11 @@ Environment : Linux - 중, GCP - 하, Window - 하 -->
 
 
 ## Projects
+### Line InternShip
+ - 주요 업무 : Server, Client, Model Serving, Feature Engineering
+ - 담당 역할 : 개발
+
+
 ### Feature Based Sampling: A Fast and Robust Sampling Method for Tasks Using 3D Point Cloud
 - 주요 업무 : Project Lead
 - 담당 역할 : 팀장
