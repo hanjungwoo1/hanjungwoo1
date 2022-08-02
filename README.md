@@ -54,7 +54,7 @@ Environment : Linux - 중, GCP - 하, Window - 하 -->
 
 ## Projects
 ### Line InternShip
- - 주요 업무 : Server, Client, Model Serving, Feature Engineering
+ - 주요 업무 : Server, Client, Model Serving, Feature Engineering, 
  - 담당 역할 : 개발
 
 
