@@ -15,6 +15,8 @@
 ### MLops / Vision / 3D Vision / Multi-Modal
 
 Line InternShip[7.04 ~ 8.26] : Ads ML Engineer 
+ - 근거에 기반하여 의사결정
+ - Data-Driven 결정
 
 ## About Me
  - MLops
