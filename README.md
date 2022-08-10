@@ -18,6 +18,7 @@ Line InternShip[7.04 ~ 8.26] : Ads ML Engineer
  - 근거에 기반하여 의사결정
  - Data-Driven 결정
  - 안되면 돌아가지말고, 해결하자
+ - 시간에 
 
 ## About Me
  - MLops
