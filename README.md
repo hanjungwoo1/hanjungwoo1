@@ -20,6 +20,7 @@ Line InternShip[7.04 ~ 8.26] : Ads ML Engineer
  - 안되면 돌아가지말고, 해결하자
 
 
+
 ## About Me
  - MLops
  - 24시간 코딩하는 개발자
