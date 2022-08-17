@@ -25,6 +25,7 @@ Line InternShip[7.04 ~ 8.26] : Ads ML Engineer
  - MLops
  - 24시간 코딩하는 개발자
  - [백준](https://www.acmicpc.net/user/hanjungwoo2)
+ - CleanCode!
 
 ### Study
  MLops
