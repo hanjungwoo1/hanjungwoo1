@@ -24,6 +24,7 @@ Line InternShip[7.04 ~ 8.26] : Ads ML Engineer
  - 재밌었다
 
 
+
 ## About Me
  - MLops
  - 24시간 코딩하는 개발자
