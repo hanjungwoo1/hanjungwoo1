@@ -17,13 +17,6 @@
 # 한정우 / Jungwoo Han
 ### MLops / Vision / 3D Vision / Multi-Modal
 
-Line InternShip[7.04 ~ 8.26] : Ads ML Engineer 
- - 근거에 기반하여 의사결정
- - Data-Driven 결정
- - 안되면 돌아가지말고, 해결하자
- - 재밌었다
-
-
 
 ## About Me
  - MLops
@@ -64,9 +57,10 @@ Environment : Linux - 중, GCP - 하, Window - 하 -->
 
 
 ## Projects
-### Line InternShip
- - 주요 업무 : Server, Client, Model Serving, Feature Engineering, 
- - 담당 역할 : 개발
+Line InternShip[7.04 ~ 8.26] : Ads ML Engineer 
+ - 주요 업무 : Server, Client, Model Serving, Feature Engineering
+ - 담당 역할 : End to End
+ - FeedBack : 근거에 기반하여 의사결정, Data-Driven 결정, 안되면 돌아가지말고 해결하자, 더 높은 코드 수준, 체계적이고, 정리된 문서
 
 
 ### Feature Based Sampling: A Fast and Robust Sampling Method for Tasks Using 3D Point Cloud
