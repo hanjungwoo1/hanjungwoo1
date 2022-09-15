@@ -76,7 +76,7 @@ Line InternShip[7.04 ~ 8.26] : Ads ML Engineer
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 - 업무 기간 : 2021.02 ~ 2022.5
 - 인원 : 4
-- 상세 내용 : 3D vision task인 Point Cloud 데이터를 다뤄내는 Model에서 병목현상이 발생하는 Sampling의 문제점을 제기하고, 문제를 해결할 수 있는 새로운 Feature-based Sampling을 제안하였습니다. Outlier를 제거하며, 3배이상의 속도 향상을 가져오게 되고 약간의 정확도 상승의 결과를 나타내었습니다. 새로운 Sampling 방식을 제안하며 Bias를 최대한 줄이고 설명 가능한 형태의 Feature-based Sampling을 제시하였습니다. 결과를 증명하기 위해 Outlier Removal, Sampling Ratio 등 새로운 실험을 제안하였습니다. 또한 기존의 Sota 논문들과 비교하기 위해 여러개의 Tensorflow로 된 모델을 Pytorch로 포팅하여 구현하여 진행하였습니다.
+- 상세 내용 : 3D vision task인 Point Cloud 데이터를 다뤄내는 Model에서 병목현상이 발생하는 Sampling의 문제점을 제기하고, 문제를 해결할 수 있는 새로운 Feature-based Sampling을 제안하였습니다. Outlier를 제거하며, 3배 이상의 속도 향상을 가져오게 되고 약간의 정확도 상승의 결과를 나타내었습니다. 새로운 Sampling 방식을 제안하며 Bias를 최대한 줄이고 설명 가능한 형태의 Feature-based Sampling을 제시하였습니다. 결과를 증명하기 위해 Outlier Removal, Sampling Ratio 등 새로운 실험을 제안하였습니다. 또한, 기존의 Sota 논문들과 비교하기 위해 여러 개의 Tensorflow로 된 모델을 Pytorch로 포팅하여 구현하여 진행하였습니다.
 - 업무 성과 : 
     - IEEE Access - Feature Based Sampling: A Fast and Robust Sampling Method for tasks using 3D point cloud
     - [논문](https://ieeexplore.ieee.org/document/9783109)
