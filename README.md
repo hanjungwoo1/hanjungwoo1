@@ -51,8 +51,8 @@ Environment : Linux - 중, GCP - 하, Window - 하 -->
 
 
 ## Projects
-Line InternShip[7.04 ~ 8.26] : Ads ML Engineer 
- - 주요 업무 : Server, Client, Model Serving, Feature Engineering
+### Line InternShip[7.04 ~ 8.26] : Ads ML Engineer 
+ - 주요 업무 : Server, Client, Model Serving, Feature Engineering, Code Refactoring
  - 담당 역할 : End to End
  - FeedBack : 근거에 기반하여 의사결정, Data-Driven 결정, 안되면 돌아가지말고 해결하자, 더 높은 코드 수준, 체계적이고, 정리된 문서
 
@@ -70,7 +70,7 @@ Line InternShip[7.04 ~ 8.26] : Ads ML Engineer
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 - 업무 기간 : 2021.02 ~ 2022.5
 - 인원 : 4
-- 상세 내용 : 3D vision task인 Point Cloud 데이터를 다뤄내는 Model에서 병목현상이 발생하는 Sampling의 문제점을 제기하고, 문제를 해결할 수 있는 새로운 Feature-based Sampling을 제안하였습니다. Outlier를 제거하며, 3배 이상의 속도 향상을 가져오게 되고 약간의 정확도 상승의 결과를 나타내었습니다. 새로운 Sampling 방식을 제안하며 Bias를 최대한 줄이고 설명 가능한 형태의 Feature-based Sampling을 제시하였습니다. 결과를 증명하기 위해 Outlier Removal, Sampling Ratio 등 새로운 실험을 제안하였습니다. 또한, 기존의 Sota 논문들과 비교하기 위해 여러 개의 Tensorflow로 된 모델을 Pytorch로 포팅하여 구현하여 진행하였습니다.
+- 상세 내용 : 3D vision task인 Point Cloud 데이터를 다뤄내는 Model(PointNet++)에서 병목현상이 발생하는 Sampling의 문제점을 제기하고, 문제를 해결할 수 있는 새로운 Feature-based Sampling을 제안하였습니다. 프로파일링을 통해 확인한 연산량을 많이 차지하는 Farthest Point Sampling 대신에 각 점의 적합도를 판단하여 Sampling을 진행하는 Feature-based Sampling을 사용하였습니다. 제안한 방식은 Sampling에서 Outliers를 제거하며, 3배 이상의 속도 향상을 가져오게 되고 정확도 상승의 결과를 나타내었습니다. 저의 Contribution은 새로운 Sampling을 제시함으로써 Sampling에 대한 bias를 줄이고 설명 가능한 형태, 학습 가능한 형태의 Feature-based Sampling을 제시하였습니다. 결과를 증명하기 위해 Outlier Removal, Sampling Ratio 등 새로운 실험을 진행하여 증명하였습니다.
 - 업무 성과 : 
     - IEEE Access - Feature Based Sampling: A Fast and Robust Sampling Method for tasks using 3D point cloud
     - [논문](https://ieeexplore.ieee.org/document/9783109)
