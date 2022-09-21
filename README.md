@@ -56,6 +56,10 @@ Environment : Linux - 중, GCP - 하, Window - 하 -->
  - 담당 역할 : End to End
  - FeedBack : 근거에 기반하여 의사결정, Data-Driven 결정, 안되면 돌아가지말고 해결하자, 더 높은 코드 수준, 체계적이고, 정리된 문서
 
+<!-- 주요 업무 : 대용량 로그 데이터를 처리하여 Model 학습, Go언어로 Server를 구현하여 Model 직접 구현 및 서빙, Client를 구축하여 Server 성능 테스트, Feature Engineering을 통해 모델 성능 향상, 프로파일링 및 리팩토링을 통해 코드 수준 올리기
+업무 내용 : Line Ads의 MLops를 경험하였으며, 직접 구현하여 이해도를 높였습니다. 서버와 클라이언트 모두 멀티 쓰레드 기반으로 만들었으며, 서버의 경우 모델 Inference RPS가 약18,000까지 구현하였습니다. Client는 Boss-worker 아키텍처를 적용하여 구현하였고, TDD기반으로 모든 개발을 진행하였습니다. Feature Engineering을 통해 데이터 기반 의사 결정을 배웠으며, 추가적인 Feature를 생성하여 성능을 높였습니다. 프로파일링을 통해 병목현상이 생기는 부분을 파악하였고 최적화를 진행하였습니다. 코드 리팩토링을 진행하여 Clean Code를 적용하고 Readability를 높여 협업 가능한 코드를 작성하였습니다. 
+사용 언어 및 프로그램 : Python, Go, Centos7 -->
+
 
 ### Feature Based Sampling: A Fast and Robust Sampling Method for Tasks Using 3D Point Cloud
 - 주요 업무 : Project Lead
