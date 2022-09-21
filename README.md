@@ -61,7 +61,7 @@ Environment : Linux - 중, GCP - 하, Window - 하 -->
 사용 언어 및 프로그램 : Python, Go, Centos7 -->
 
 
-### Feature Based Sampling: A Fast and Robust Sampling Method for Tasks Using 3D Point Cloud
+### Feature Based Sampling: A Fast and Robust Sampling Method for Tasks Using 3D Point Cloud (IEEE Access)
 - 주요 업무 : Project Lead
 - 담당 역할 : 팀장
 - 기술 스택 : 
