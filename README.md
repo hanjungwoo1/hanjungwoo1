@@ -128,7 +128,7 @@ Environment : Linux - 중, GCP - 하, Window - 하 -->
 - [프로젝트 내용](https://github.com/hanjungwoo1/Projects/tree/master/Projects/Survival%20Analysis)
 
 
-### Multi-modal Fault Detection
+### Multi-modal Fault Detection / RIST
 - 주요 업무 : 모델링 및 실험
 - 담당 역할 : 팀원
 - 기술 스택 : 
