@@ -35,7 +35,7 @@
  - Clean Code
 
  Interview
- - [개념 정리] (https://github.com/hanjungwoo1/CodingTest/tree/main/Interview)
+ - [개념 정리](https://github.com/hanjungwoo1/CodingTest/tree/main/Interview)
 
 ## Skill Set
 |구분|Skill|
