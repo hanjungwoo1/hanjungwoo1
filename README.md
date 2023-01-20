@@ -14,11 +14,23 @@
 # 한정우 / Jungwoo Han
 ### MLops / Vision / 3D Vision / Multi-Modal
 
+
+
+
+
 ## About Me
  - MLops
  - 24시간 코딩하는 개발자
  - [백준](https://www.acmicpc.net/user/hanjungwoo2)
  - CleanCode
+
+### Career
+
+#### LG Electronics, VS Division, Graphics
+ - 23.01.06 ~
+
+#### Line, Ads ML Engineer
+ - 22.07.04 ~ 22.08.26
 
 ### Study
  MLops
