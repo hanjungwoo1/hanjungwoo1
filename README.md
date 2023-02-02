@@ -24,7 +24,7 @@
 
 #### LG Electronics, VS Division, Graphics
  - 23.01.06 ~
- - Window Manager
+ - Embedded
 
 #### Line, Ads ML Engineer
  - 22.07.04 ~ 22.08.26
