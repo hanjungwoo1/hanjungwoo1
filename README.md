@@ -25,6 +25,7 @@
 #### LG Electronics, VS Division, Graphics
  - 23.01.06 ~
  - Embedded
+ - Yocto
  - Window Manager
 
 #### Line, Ads ML Engineer
