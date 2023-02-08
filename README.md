@@ -28,6 +28,7 @@
  - Yocto
  - Window Manager
 
+
 #### Line, Ads ML Engineer
  - 22.07.04 ~ 22.08.26
 
