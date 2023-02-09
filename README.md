@@ -22,6 +22,7 @@
 
 ### Career
 
+
 #### LG Electronics, VS Division, Graphics
  - 23.01.06 ~
  - Embedded
