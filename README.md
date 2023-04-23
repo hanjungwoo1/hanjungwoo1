@@ -12,6 +12,7 @@
 # 한정우 / Jungwoo Han
 ### MLops / Vision / 3D Vision / Multi-Modal
 
+
 ## About Me
  - MLops
  - 24시간 코딩하는 개발자
@@ -24,8 +25,8 @@
 #### LG Electronics, VS Division, Graphics
  - 23.01.06 ~
  - Embedded
- - Yocto
  - Window Manager
+ - Unreal Engine POC
 
 
 #### Line, Ads ML Engineer
